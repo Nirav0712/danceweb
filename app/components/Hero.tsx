@@ -8,7 +8,7 @@ const HeroScroll = () => {
     const slides = [
         {
             id: 1,
-            image: '/homeimg/4H7A4034.JPG',
+            image: '/homeimg/4H7A4034.jpg',
             title: 'Classical Dance Excellence',
             subtitle: 'Master the art of Bharatanatyam, Kathak & Odissi',
             description: 'Learn from award-winning gurus with 20+ years of experience',
@@ -17,7 +17,7 @@ const HeroScroll = () => {
         },
         {
             id: 2,
-            image: '/homeimg/4H7A9667.JPG',
+            image: '/homeimg/4H7A9667.jpg',
             title: 'Contemporary Expression',
             subtitle: 'Find your unique voice through modern dance',
             description: 'Fusion workshops and choreography classes available',
@@ -26,7 +26,7 @@ const HeroScroll = () => {
         },
         {
             id: 3,
-            image: '/homeimg/DSC_1187.JPG',
+            image: '/homeimg/DSC_1187.jpg',
             title: 'Cultural Folk Dances',
             subtitle: 'Celebrate India\'s rich cultural heritage',
             description: 'Garba, Bhangra, Lavani & more traditional forms',
@@ -35,7 +35,7 @@ const HeroScroll = () => {
         },
         {
             id: 4,
-            image: '/homeimg/DSC_1597.JPG',
+            image: '/homeimg/DSC_1597.jpg',
             title: 'Bollywood Fusion',
             subtitle: 'Dance like your favorite stars',
             description: 'High-energy classes with latest Bollywood tracks',
@@ -44,7 +44,7 @@ const HeroScroll = () => {
         },
         {
             id: 5,
-            image: '/homeimg/DSC_1663.JPG',
+            image: '/homeimg/DSC_1663.jpg',
             title: 'International Styles',
             subtitle: 'Ballet, Hip-Hop, Salsa & more',
             description: 'Global dance forms taught by international instructors',
@@ -123,15 +123,6 @@ const HeroScroll = () => {
                                         <p className="text-lg text-white/80 mb-8 max-w-xl">
                                             {slide.description}
                                         </p>
-                                        {/* <div className="flex flex-col sm:flex-row gap-4">
-                                            <Link href="/courses" className="btn-primary inline-flex items-center justify-center">
-                                                {slide.cta}
-                                            </Link>
-                                            <button className="bg-white/20 hover:bg-white/30 backdrop-blur-sm text-white font-semibold py-3 px-6 rounded-lg transition flex items-center justify-center gap-2">
-                                                <Play size={20} />
-                                                Watch Demo
-                                            </button>
-                                        </div> */}
                                     </div>
                                 </div>
                             </div>
