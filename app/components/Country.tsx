@@ -9,12 +9,13 @@ const flags = [
 ];
 
 const logos = [
-  // '/s1-Photoroom.png',
-  // '/s3-Photoroom.png',
-  // '/s4-Photoroom.png',
-  // '/s5-Photoroom.png',
-  // '/s6-Photoroom.png',
-  '/s7-Photoroom.png',
+ '/logi 2.jpg.jpeg',
+ '/logo 1.jpg.jpeg',
+  '/logo 3.jpg.jpeg',
+  '/logo 4.jpg.jpeg',
+   '/logo 5.jpg.jpeg',
+  '/logo 6.jpg.jpeg',
+  '/logo 7.jpg.jpeg',
 ];
 
 const Country: React.FC = () => {

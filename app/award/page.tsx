@@ -207,20 +207,52 @@ const awardData = [
         image: '/awardimg/25.jpg',
         description: 'Awarded for creative use of space and movement in choreography.'
     },
-    {
-        id: '26',
-        title: 'Grand Prix Winner',
-        category: 'National Championship',
-        year: '2023',
-        image: '/awardimg/26.jpg',
-        description: 'The highest honor bestowed at the National Dance Championship.'
-    },
+    // {
+    //     id: '26',
+    //     title: 'Grand Prix Winner',
+    //     category: 'National Championship',
+    //     year: '2023',
+    //     image: '/awardimg/26.jpg',
+    //     description: 'The highest honor bestowed at the National Dance Championship.'
+    // },
     {
         id: '27',
         title: 'International Cultural Exchange Program',
         category: 'National Championship',
         year: '2023',
         image: '/awardimg/27.jpg',
+        description: 'Our talented team proudly secured the prestigious Grand Prix Winner title at the National Dance Championship 2023. This remarkable achievement reflects their dedication, discipline, and outstanding performance on a national stage. Competing against top talented participants from across the country, our students showcased exceptional coordination, creativity, and confidence, earning the highest honor in the competition.'
+    },
+    {
+        id: '28',
+        title: 'International Cultural Exchange Program',
+        category: 'National Championship',
+        year: '2023',
+        image: '/awardimg/_HRV6068.JPG.jpeg',
+        description: 'Our talented team proudly secured the prestigious Grand Prix Winner title at the National Dance Championship 2023. This remarkable achievement reflects their dedication, discipline, and outstanding performance on a national stage. Competing against top talented participants from across the country, our students showcased exceptional coordination, creativity, and confidence, earning the highest honor in the competition.'
+    },
+    // {
+    //     id: '29',
+    //     title: 'International Cultural Exchange Program',
+    //     category: 'National Championship',
+    //     year: '2023',
+    //     image: '/awardimg/indian 011.jpg.jpeg',
+    //     description: 'Our talented team proudly secured the prestigious Grand Prix Winner title at the National Dance Championship 2023. This remarkable achievement reflects their dedication, discipline, and outstanding performance on a national stage. Competing against top talented participants from across the country, our students showcased exceptional coordination, creativity, and confidence, earning the highest honor in the competition.'
+    // },
+    {
+        id: '30',
+        title: 'International Cultural Exchange Program',
+        category: 'National Championship',
+        year: '2023',
+        image: '/awardimg/img005.jpg.jpeg',
+        description: 'Our talented team proudly secured the prestigious Grand Prix Winner title at the National Dance Championship 2023. This remarkable achievement reflects their dedication, discipline, and outstanding performance on a national stage. Competing against top talented participants from across the country, our students showcased exceptional coordination, creativity, and confidence, earning the highest honor in the competition.'
+    },
+    {
+        id: '31',
+        title: 'International Cultural Exchange Program',
+        category: 'National Championship',
+        year: '2023',
+        image: '/awardimg/DSC_1094.JPG.jpeg',
         description: 'Our talented team proudly secured the prestigious Grand Prix Winner title at the National Dance Championship 2023. This remarkable achievement reflects their dedication, discipline, and outstanding performance on a national stage. Competing against top talented participants from across the country, our students showcased exceptional coordination, creativity, and confidence, earning the highest honor in the competition.'
     },
 ]

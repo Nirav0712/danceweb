@@ -50,7 +50,7 @@ export default function Awards() {
                     <div className="flex items-center justify-center gap-3 mb-2">
                         <span className="text-amber-400 text-2xl">✦</span>
                         <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900">
-                            AWARDS
+                            ACHIVEMENT
                         </h2>
                         <span className="text-amber-400 text-2xl">✦</span>
                     </div>

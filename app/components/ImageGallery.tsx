@@ -42,7 +42,7 @@ const images = [
   },
   {
     id: 5,
-    image: '/homeimg/DSC_1663.jpg',
+    image: '/02.jpg.jpeg',
     title: 'International Styles',
     subtitle: 'Ballet, Hip-Hop, Salsa & more',
     description: 'Global dance forms taught by international instructors',
@@ -85,6 +85,27 @@ const images = [
     cta: 'Learn International Styles',
     color: 'from-green-900/50 to-green-700/50',
   },
+
+   {
+    id: 10,
+    image: '/Garba Group 01.jpg.jpeg',
+    title: 'International Styles',
+    subtitle: 'Ballet, Hip-Hop, Salsa & more',
+    description: 'Global dance forms taught by international instructors',
+    cta: 'Learn International Styles',
+    color: 'from-green-900/50 to-green-700/50',
+  },
+
+   {
+    id: 11,
+    image: '/sandesh 02.jpg.jpeg',  
+    title: 'International Styles',
+    subtitle: 'Ballet, Hip-Hop, Salsa & more',
+    description: 'Global dance forms taught by international instructors',
+    cta: 'Learn International Styles',
+    color: 'from-green-900/50 to-green-700/50',
+  },
+
 ]
 
 
