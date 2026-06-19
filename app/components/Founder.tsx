@@ -16,7 +16,7 @@ export default function FounderSection() {
                     <div className="text-center">
                         <div className="bg-white rounded-3xl p-4 inline-block shadow-lg">
                             <img
-                                src="/1.png"
+                                src="/006.jpg.jpeg"
                                 alt="Tirthraj Trivedi"
                                 className="rounded-2xl w-72 h-80 object-cover"
                             />
